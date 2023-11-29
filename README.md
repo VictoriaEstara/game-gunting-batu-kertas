@@ -2,16 +2,6 @@
 
 Kode ini berfungsi untuk membuat game sederhana 1 vs 1 yang sering dimainkan oleh anak-anak indonesia, yakni game gunting, batu, dan kertas.
 
-Fitur-fitur:
-
-1️⃣ Mampu mengurutkan bilangan terkecil dan terbesar dari data array bertipe integer.  
-
-2️⃣ Mampu mengurutkan nama-nama berdasarkan abjad secara ASC (Asceding) dari data array bertipe char atau string.
-
-3️⃣ Mampu mengurutkan nama-nama berdasarkan abjad secara DESC (Descending) dari data array bertipe char atau string.
-
-4️⃣ Mampu menampilkan jumlah data array.
-
 ## Bahasa Pemrograman
 
 Kode proyek ini ditulis menggunakan bahasa pemrograman C++.
